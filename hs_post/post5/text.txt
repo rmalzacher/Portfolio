@@ -1,0 +1,1 @@
+Im Modul <i>Mobile App Development I</i> wurde das Grundwissen für die Entwicklung einer Anwendungssoftware für mobile Endgeräte vermittelt und abschließend durch die Aufgabe eine simple App selbst zu entwickeln geprüft.

@@ -1,0 +1,1 @@
+Im Modul <i>Algorithmen und Datenstrukturen</i> wurden zunächst verschiedene Algorithmen zur Suche in Datenstrukturen behandelt, woraufhin jedem Algorithmus eine Gruppe an Studierenden zugeteilt wurde, welche das Thema für die Abschlussarbeit des Moduls entweder als Lernvideo oder als Computerspiel lehrreich umsetzen und präsentieren sollte.
