@@ -33,8 +33,7 @@
             </div>
             <div >
                 <h3>Datenschutzerklärung</h3>
-                <p>Die Nutzung dieser Website erfolgt ohne Angaben von personenbezogenen Daten. Lediglich wird die aktuelle URL auf der Website für die Orientierung auf dieser ausgelesen.</p>
-                <p>Die vom Host erhobenen Daten sind in dessen Datenschutzerklärung benannt.</p>
+                <?php include "data.php"; ?>
                 <br>
             </div>
 <?php include "footer.php"; ?>
