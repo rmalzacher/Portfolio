@@ -14,7 +14,7 @@
                 <div class="card">
                     
                     <div class="card-image">
-                        <img src="img/about.PNG" alt="Card Image">
+                        <img src="./img/about.png" alt="Card Image">
                     </div>
                     <div class="card-description">
                         <h3>Über den Entwickler</h3>
