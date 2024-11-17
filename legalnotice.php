@@ -34,7 +34,6 @@
             <div >
                 <h3>Datenschutzerklärung</h3>
                 <?php include "data.php"; ?>
-                <br>
             </div>
 <?php include "footer.php"; ?>
          
